@@ -1,13 +1,14 @@
 # **Project Overview:**
-# This is my culiminating capstone project when I enrolled in Springboard’s Data Science Intensive course during 2016. Springboard's course is pretty fantastic, as I was challenged not only to learn new analtyics, but to present my work with different audiences in mind. My project deliverables (see links below) involved writing a blog post summarizing my findings in a layman's format, presenting my project to fellow students, writing up a detailed Ipython notebook and capstone report for Data Science-minded readers that would like to see how I analyzed my data. I have also included all of the code used for analysis in this GitHub repository. 
+This is my culiminating capstone project when I enrolled in Springboard’s Data Science Intensive course during 2016. Springboard's course is pretty fantastic, as I was challenged not only to learn new analtyics, but to present my work with different audiences in mind. My project deliverables (see links below) involved writing a blog post summarizing my findings in a layman's format, presenting my project to fellow students, writing up a detailed Ipython notebook and capstone report for Data Science-minded readers that would like to see how I analyzed my data. I have also included all of the code used for analysis in this GitHub repository. 
+<br />
 
-**Links:**
-# <a href="https://www.springboard.com/blog/six-stocks-matter-nasdaq/">Blog post</a>
-# *<a href="https://www.youtube.com/watch?v=A-kx8BZkt-o">YouTube Presentation</a>
-# *<a href="https://github.com/dwhitneycmu/2016-Springboard-Course/blob/master/2016 Capstone Project/SlideShow/CapstoneSlideShow_Revision_NoTransitions.pptx">Presentation Slides</a>
-# <a href="https://github.com/dwhitneycmu/2016-Springboard-Course/blob/master/2017 Blog Post/Springboard Blog Post.ipynb">Ipython notebook</a>
-# *<a href="https://github.com/dwhitneycmu/2016-Springboard-Course/tree/master/2016">Github link for code</a>
-# *<a href="https://github.com/dwhitneycmu/2016-Springboard-Course/blob/master/2016 Capstone Project/CapstoneReport.pdf">PDF of the project</a>
+# **Links:**
+<br /> *<a href="https://www.springboard.com/blog/six-stocks-matter-nasdaq/">Blog post</a>
+<br /> *<a href="https://www.youtube.com/watch?v=A-kx8BZkt-o">YouTube Presentation</a>
+<br /> *<a href="https://github.com/dwhitneycmu/2016-Springboard-Course/blob/master/2016 Capstone Project/SlideShow/CapstoneSlideShow_Revision_NoTransitions.pptx">Presentation Slides</a>
+<br /> *<a href="https://github.com/dwhitneycmu/2016-Springboard-Course/blob/master/2017 Blog Post/Springboard Blog Post.ipynb">Ipython notebook</a>
+<br /> *<a href="https://github.com/dwhitneycmu/2016-Springboard-Course/tree/master/2016">Github link for code</a>
+<br /> *<a href="https://github.com/dwhitneycmu/2016-Springboard-Course/blob/master/2016 Capstone Project/CapstoneReport.pdf">PDF of the project</a>
 
 # **Project Overview:**
 # For this capstone project, I had the pleasure to be mentored by Sameera Poduri, the head data-scientist at Amino Health. Early on, Sameera and I decided to try something not related to my expertise in systems neuroscience, and instead challenge myself with an unconnected topic in finance. Pretty quickily I was struck by a recent Wall Street journal article that reported just six giant technology/ pharmaceutical-related companies accounted for over half of the NASDAQ’s growth back in 2015: Facebook, Amazon, Apple, Netflix, Gilead, and Google [1]. Not surprisingly, these six high-performing stocks have received considerable attention from business analysts [1-3]. Jim Cramer from Mad Money even went so far to dub four of these fast-growing NASDAQ stocks (Facebook, Amazon, Netflix, and Google) with the acronym ‘FANG’ to emphasize the privileged position that these companies enjoy [3].
