@@ -2,7 +2,7 @@
 This is my culiminating capstone project when I enrolled in Springboard’s Data Science Intensive course during 2016. Springboard's course is pretty fantastic, as I was challenged not only to learn new analtyics, but to present my work with different audiences in mind. My project deliverables involved writing a blog post summarizing my findings in a layman's format, presenting my project to fellow students, writing up a detailed Ipython notebook and capstone report for Data Science-minded readers that would like to see how I analyzed my data. I have also included all of the code used for analysis in this GitHub repository. 
 
 **Project links:**
-%0A*<a href="https://www.springboard.com/blog/six-stocks-matter-nasdaq/">Blog post</a>
+\n*<a href="https://www.springboard.com/blog/six-stocks-matter-nasdaq/">Blog post</a>
 *<a href="https://www.youtube.com/watch?v=A-kx8BZkt-o">YouTube Presentation</a>
 *<a href="https://github.com/dwhitneycmu/2016-Springboard-Course/blob/master/2016 Capstone Project/SlideShow/CapstoneSlideShow_Revision_NoTransitions.pptx">Presentation Slides</a>
 <a href="https://github.com/dwhitneycmu/2016-Springboard-Course/blob/master/2017 Blog Post/Springboard Blog Post.ipynb">Ipython notebook</a>
